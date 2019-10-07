@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomDatabase Demo</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="employee_id">Employee ID</string>
+    <string name="email_id">Email ID</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="residence_address">Residence Address</string>
+    <string name="add_to_database">Add to Database</string>
+</resources>
