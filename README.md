@@ -3,13 +3,13 @@
  
 # Key Points of Room Database:
 
-Room is a part of android architecture components.
-Room is a database layer on top of Sqlite Database
-Room Database helps us to verify the sql queries at compile time instead of run Tim as a results there would be no risk of runtime error that might crash the app.
-Room DB helps us to reduce the boilerplate code and improves the code readability.
-To represent Room Database we need to create abstract class which extends Room Database.
-To represent each table we should use Entity class
-To communicate with database we need to create Data Access Objects (DAOs)
+* Room is a part of android architecture components.
+* Room is a database layer on top of Sqlite Database
+* Room Database helps us to verify the sql queries at compile time instead of run Tim as a results there would be no risk of     runtime error that might crash the app.
+* Room DB helps us to reduce the boilerplate code and improves the code readability.
+* To represent Room Database we need to create abstract class which extends Room Database.
+* To represent each table we should use Entity class
+* To communicate with database we need to create Data Access Objects (DAOs)
 
  
  ## Dependencies
