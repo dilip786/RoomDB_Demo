@@ -4,10 +4,17 @@
  ## Dependencies
 
 ```
-def lifecycle_ex_version = "2.1.0";
+def material_designs_version = "1.0.0"
+def room_version = "2.1.0"
 
-implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_ex_version"
 
+// Material Designs
+implementation "com.google.android.material:material:$material_designs_version"
+
+
+// Room Library
+implementation "androidx.room:room-runtime:$room_version"
+kapt "androidx.room:room-compiler:$room_version"
 ```
 # Demo
  
