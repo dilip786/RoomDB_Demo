@@ -13,5 +13,5 @@ implementation "androidx.lifecycle:lifecycle-extensions:$lifecycle_ex_version"
  
   <td>
     <p align="left">
-  <img src="https://user-images.githubusercontent.com/10658016/66259768-0c2e7e00-e7d3-11e9-9870-c60099111058.gif?raw=true" alt="Home Page" width="300"/>
+  <img src="https://user-images.githubusercontent.com/10658016/66369416-f5964b80-e9b9-11e9-9ee0-1c56175fb5ff.gif?raw=true" alt="Home Page" width="300"/>
 </p>
