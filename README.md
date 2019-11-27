@@ -1,7 +1,7 @@
-# Room Database Demo
+### Room Database Demo
  This is a demo app on how to implement Room persistance library, making use of LiveData in Android app
  
-# Key Points of Room Database:
+### Key Points of Room Database:
 
 * Room is a part of android architecture components.
 * Room is a database layer on top of Sqlite Database
@@ -12,7 +12,7 @@
 * To communicate with database we need to create Data Access Objects (DAOs)
 
  
- ## Dependencies
+ ### Dependencies
 
 ```
 def material_designs_version = "1.0.0"
@@ -27,7 +27,7 @@ implementation "com.google.android.material:material:$material_designs_version"
 implementation "androidx.room:room-runtime:$room_version"
 kapt "androidx.room:room-compiler:$room_version"
 ```
-# Demo
+### Demo Screenshot
  
   <td>
     <p align="left">
